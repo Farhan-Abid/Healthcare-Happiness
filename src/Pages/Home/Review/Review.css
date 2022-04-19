@@ -1,0 +1,15 @@
+.review-card {
+  background-color: rgba(212, 212, 212, 0.082);
+  padding: 10px;
+  
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.39);
+}
+.review-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  
+}
+.review-text {
+  
+}

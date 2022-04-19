@@ -1,8 +1,10 @@
 .review-card {
-  background-color: rgba(212, 212, 212, 0.082);
+  background-color: rgba(212, 212, 212, 0);
   padding: 10px;
   
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.39);
+  border: 2px solid purple;
+  border-radius: 5px;
 }
 .review-image {
   width: 100px;

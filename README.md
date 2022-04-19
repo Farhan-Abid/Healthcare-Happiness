@@ -1,6 +1,33 @@
-# Getting Started with Create React App
+# Healthcare Happiness
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Site Live Link
+
+https://healthcare-app-8652f.web.app/
+
+## Website Specialities
+
+***
+
+* A website regarding medical care service
+* Detailed honest reviews of users and service takers
+* a Login section which contains registration sections with google and github signing.
+* A detailed Blog Section whoch contains some questions and answers
+* Details about the developer who built the sight in "know me" section
+
+## Technologies used 
+
+***
+
+* HTML
+* CSS
+* React JS
+* Firebase
+* Bootstrap
+
+
+
 
 ## Available Scripts
 

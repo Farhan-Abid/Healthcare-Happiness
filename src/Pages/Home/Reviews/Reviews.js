@@ -32,7 +32,7 @@ const reviews = [
   },
   {
     id: 3,
-    name: "Jonchina Alauddin",
+    name: "Abdul Kashem",
     img: person3,
     description:
       "The best health care managment system in town! They dont lack a single effort to make your health smooth and secure. Always love to acquire their service!",

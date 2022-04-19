@@ -10,7 +10,7 @@ const Review = ({ review }) => {
       </div>
       <div>
         <div className="review-text">
-          <h5>{name}</h5>
+          <h5><h2>{name}</h2></h5>
           <p>{description}</p>
         </div>
       </div>

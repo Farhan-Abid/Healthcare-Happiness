@@ -11,7 +11,7 @@ const Service = ({ service }) => {
         <Card>
           <Card.Img variant="top" src={img} className="card-image" />
           <Card.Body>
-            <Card.Title>{name}</Card.Title>
+            <Card.Title><h2>{name}</h2></Card.Title>
             <Card.Text>{description}</Card.Text>
             <Card.Text>
               ${price}

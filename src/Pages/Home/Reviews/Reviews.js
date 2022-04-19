@@ -3,6 +3,7 @@ import "./Reviews.css";
 import person1 from "../../../images/reviews/person-1.jpg";
 import person2 from "../../../images/reviews/person-2.jpg";
 import person3 from "../../../images/reviews/person-3.jpg";
+import person4 from "../../../images/reviews/person-4.jpg";
 import Review from "../Review/Review";
 
 const reviews = [
@@ -33,7 +34,7 @@ const reviews = [
   {
     id: 3,
     name: "Abdul Kashem",
-    img: person3,
+    img: person4,
     description:
       "The best health care managment system in town! They dont lack a single effort to make your health smooth and secure. Always love to acquire their service!",
     rating: 5,

@@ -3,13 +3,14 @@
   padding: 10px;
   
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.39);
-  border: 2px solid purple;
+  border-left: 6px solid palevioletred;
   border-radius: 5px;
 }
 .review-image {
   width: 100px;
   height: 100px;
   object-fit: cover;
+  border-radius: 50%;
   
 }
 

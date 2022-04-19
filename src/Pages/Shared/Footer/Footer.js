@@ -10,7 +10,7 @@ const Footer = () => {
         >
           <p className="text-center">
             <h6>
-            &copy;All rights reserved by Monirul.{new Date().getFullYear()}
+            &copy;All rights reserved by Shah Farhan Abid.{new Date().getFullYear()}
             </h6>
           </p>
         </div>

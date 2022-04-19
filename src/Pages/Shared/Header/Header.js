@@ -5,11 +5,12 @@ import { useAuthState } from "react-firebase-hooks/auth";
 import { Link } from "react-router-dom";
 import auth from "../../../firebase.init";
 import CustomLink from "../../CustomLink/CustomLink";
+import "./Header.css";
 
 const Header = () => {
   const [user] = useAuthState(auth);
   return (
-    <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+    <Navbar className="nav-style" collapseOnSelect expand="lg" bg="Info" variant="primary">
       <Container>
         <Navbar.Brand as={Link} to="/">
           Healthcare
